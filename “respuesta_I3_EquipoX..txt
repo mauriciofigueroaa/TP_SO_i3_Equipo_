@@ -1,0 +1,59 @@
+
+
+alumnos de la interacción : FIGUEROA MAURICIO SANTIAGO  
+
+Responde BETA:
+a-¿Cómo queda el máster después de estos cambios?
+
+el master queda con los archivos agregados de otras ramas: beta.txt, cpu alfa, beta y gamma datos.txt y un readme
+
+
+
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+si se pueden ver los cambios hechos en las ramas
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+
+
+cambiar de rama al main y desde el main hacer un git merge y el nombre de la respectiva rama , y finalmente pushear los cambios al GitHub
+
+
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+no a la rama de gamma le falta el beta.txt
+
+
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+al hacer el merge tuve que cambiar de rama y ver que tambien los cambios esten actualizados en la rama 
+
+
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+Responde ALFA:
+
+tuve que actualizar los cambios: git pull
+
+tuve que estar en la rama : git switch rama beta
+despues 
+
+despues entre a el archivo beta.txt y agregue los datos pedidos y guarde el archivo
+para sacar el ip tuve que ir a la terminal y usar el comando ipconfig para conseguir la ip
+finalmente use el git add . para agregar los cambios 
+un git commit -m "agrego cambios"
+un git push para finalizar y subir todo
+
+
+
+
+
+
+
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+
+repitiendo el proceso actualice con un git pull y agrege los datos en el archivo txt 
+use un git add . y un git commit -m "agrego cambios alfa" y un git push 
